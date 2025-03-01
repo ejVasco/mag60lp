@@ -1,6 +1,8 @@
 
 # KiCad lock files (temporary)
 *.lck
+# kicad backup directories
+*backups/
 # Backup and autosave files
 *.bak
 *.bck
