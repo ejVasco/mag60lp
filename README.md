@@ -27,3 +27,4 @@ WIP 60&amp; low profile keyboard with the goal of easy compact storage hopefully
 | | Heat inserted threads/standoffs for the case | Not Started
 | Program | Basic Firmware | Not Started | lowkey scared
 | | Via Compatability | Not Started | Desperately want
+# Cache refresh
