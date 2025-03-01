@@ -6,7 +6,7 @@ WIP 60&amp; low profile keyboard with the goal of easy compact storage hopefully
 | |Task | Status | Notes |
 |-|-|-|-
 |Designing| Layout | Researching | 60% Split
-| | PCB | Researching | Split 
+| | PCB | In Progress | Split 
 | | Plate | Researching | 
 | | Case | Not started | seems simple enough except for the magnetic mechanism I want
 | | Plate and PCB mounting mechanism | Not Started | Gasket seems really popular nowadays
