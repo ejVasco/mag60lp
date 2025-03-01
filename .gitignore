@@ -1,0 +1,62 @@
+
+# KiCad lock files (temporary)
+*.lck
+# Backup and autosave files
+*.bak
+*.bck
+*.autosave
+*.tmp
+
+# Build & cache files
+*.cache
+*.cach*
+*.lock
+*.dcm
+fp-info-cache
+
+# User-specific settings
+*.net
+*.history
+*.swp
+*.kicad_prl
+
+# Simulation & fabrication output files
+*.csv
+*.xsl
+*.gbr
+*.gbl
+*.gbo
+*.gbp
+*.gbs
+*.gml
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.drl
+*.pos
+*.rpt
+*.zip
+
+# 3D model cache
+3dmodel/
+*.step
+*.stp
+*.wrl
+
+# Gerber and fabrication outputs
+fabrication_outputs/
+manufacturing/
+
+# KiCad 6 & 7-specific files
+*-backups/
+*-autosave.kicad_sch
+*-autosave.kicad_pcb
+*-autosave.kicad_pro
+*-autosave.kicad_dru
+*-autosave.kicad_sym
+*-autosave.kicad_mod
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
