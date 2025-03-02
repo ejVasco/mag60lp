@@ -2526,7 +2526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 96.52 83.82 0)
 			(effects
 				(font
@@ -2594,7 +2594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 76.2 101.6 0)
 			(effects
 				(font
@@ -2750,7 +2750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 96.52 48.26 0)
 			(effects
 				(font
@@ -2818,7 +2818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 96.52 66.04 0)
 			(effects
 				(font
@@ -2974,7 +2974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 86.36 83.82 0)
 			(effects
 				(font
@@ -3132,7 +3132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -3200,7 +3200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.75u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.75u"
 			(at 106.68 101.6 0)
 			(effects
 				(font
@@ -3356,7 +3356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
 			(at 86.36 119.38 0)
 			(effects
 				(font
@@ -3424,7 +3424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.00u"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -3756,7 +3756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 66.04 66.04 0)
 			(effects
 				(font
@@ -3912,7 +3912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 55.88 83.82 0)
 			(effects
 				(font
@@ -3980,7 +3980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 55.88 66.04 0)
 			(effects
 				(font
@@ -4136,7 +4136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 106.68 66.04 0)
 			(effects
 				(font
@@ -4204,7 +4204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 106.68 83.82 0)
 			(effects
 				(font
@@ -4272,7 +4272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
 			(at 96.52 119.38 0)
 			(effects
 				(font
@@ -4340,7 +4340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.25u"
 			(at 106.68 119.38 0)
 			(effects
 				(font
@@ -4408,7 +4408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 86.36 66.04 0)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 66.04 83.82 0)
 			(effects
 				(font
@@ -4720,7 +4720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 86.36 48.26 0)
 			(effects
 				(font
@@ -4788,7 +4788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 55.88 48.26 0)
 			(effects
 				(font
@@ -5254,7 +5254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
 			(at 66.04 119.38 0)
 			(effects
 				(font
@@ -5322,7 +5322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -5390,7 +5390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -5546,7 +5546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 86.36 101.6 0)
 			(effects
 				(font
@@ -5866,7 +5866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 66.04 48.26 0)
 			(effects
 				(font
@@ -6110,7 +6110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
 			(at 76.2 119.38 0)
 			(effects
 				(font
@@ -6354,7 +6354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 76.2 66.04 0)
 			(effects
 				(font
@@ -6686,7 +6686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 116.84 66.04 0)
 			(effects
 				(font
@@ -6842,7 +6842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 106.68 48.26 0)
 			(effects
 				(font
@@ -7174,7 +7174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.75u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.75u"
 			(at 55.88 119.38 0)
 			(effects
 				(font
@@ -7506,7 +7506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 55.88 101.6 0)
 			(effects
 				(font
@@ -7838,7 +7838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 66.04 101.6 0)
 			(effects
 				(font
@@ -7906,7 +7906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.50u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.50u"
 			(at 116.84 101.6 0)
 			(effects
 				(font
@@ -7974,7 +7974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
 			(at 76.2 48.26 0)
 			(effects
 				(font
