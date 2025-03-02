@@ -65,3 +65,12 @@ git clone https://gitlab.com/kicad/libraries/kicad-symbols.git
 git clone https://gitlab.com/kicad/libraries/kicad-footprints.git
 git clone https://gitlab.com/kicad/libraries/kicad-packages3D.git
 ```
+# Major revalations realized while progressing.
+## Differences between kaihl choc v1 and choc v2, Mar01.2025
+- for choc v1 you space them 18mm horizontally and 17mm vertically and they keycaps for these switches match this specification
+- for choc v2 you use standard mx spacing 19.05mm and these switches are compatible with mx caps, so you just choose a key cap profile that is flat and low
+- I stood up till 2 AM last night doing spacing for choc v1 when i specifically want v2
+- I literally just bought a low profile keyboard (still shipping) that uses choc v2 so I was confused on the different spacing and keycap stuff
+## Typing angle
+- recently i built a numpad and its very uncomfortable to use, and i drew the conclusion that is because its perfectly flat.
+as a result i definietly want to have some sort of typing angle integratted in my design
