@@ -76,6 +76,14 @@ git clone https://gitlab.com/kicad/libraries/kicad-packages3D.git
     - they seem to be using proprietary switches on most of their low profile keebs
     - the kick75 uses nano switches witch are the same footprint as mx style switches it seems?
 - I'm gonna pause anymore designing until i research more and decide for certain what switches i want to use
+#### Mar04.2025 Update
+- I have made somewhat of a decision... I'm gonna try at least 3 kinds of switches on the keeb
+    - sunset tactile choc switches from lowprokb (choc v1)
+        - https://lowprokb.ca/collections/switches/products/sunset-tactile-choc-switches
+    - ambients silent choc switches from lowprokb (preferably the sunrise tactile if i can get em) (choc v1)
+        - https://lowprokb.ca/collections/switches/products/ambients-silent-choc-switches?variant=44873446391972
+    - kailh deep sea silent min low profile keyboard switch (choc v2)
+        - https://kailhswitch.net/products/kailh-deep-sea-silent-min-low-profile-keyboard-switch?srsltid=AfmBOopuMTs1dCHiFDEX5lSlkit3Br6B8thxWUUATb5m5LB0BbaOp5Kw&variant=43950809743546
 ### Typing angle
 - recently i built a numpad and its very uncomfortable to use, and i drew the conclusion that is because its perfectly flat.
 as a result i definietly want to have some sort of typing angle integratted in my design
