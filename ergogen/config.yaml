@@ -1,0 +1,41 @@
+# modified / simplified from christianselig/caldera-keyboard
+units:
+  px: cx + 2
+  py: cy + 2
+
+
+  pushX: (cx / 2)
+  pushY: (cy / 2)
+
+  padX: pushX + 2
+  padY: pushY + 2
+
+  pad: 2
+
+  spacing: 0.75
+
+  controllerW: 18.5
+  controllerH: 33.5
+  belowControllerH: 17
+  caseBorder: 1.5
+  screwThreadRadius: 0.5
+  screwPCBRadius: 4.0
+points:
+  key:
+    padding: cy + spacing
+    spread: cx + spacing
+  zones:
+    matrix:
+      columns:
+        outer:
+        pinky:
+        ring:
+        middle:
+        index:
+        inner:
+      rows:
+        mod:
+        bottom:
+        home:
+        upper:
+        num:
