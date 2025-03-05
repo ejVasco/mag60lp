@@ -504,6 +504,284 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "ScottoKeebs:OLED_128x32"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "OLED_128x32"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OLED_128x32_0_1"
+				(rectangle
+					(start 0 5.08)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "OLED_128x32_1_1"
+				(pin bidirectional line
+					(at -2.54 3.81 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at -2.54 1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -1.27 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -3.81 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "ScottoKeebs:OLED_128x64"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "OLED_128x64"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
+				(at 0 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OLED_128x64_0_1"
+				(rectangle
+					(start 10.16 -10.16)
+					(end -10.16 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "OLED_128x64_1_1"
+				(pin power_in line
+					(at -3.81 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -1.27 2.54 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at 1.27 2.54 270)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 3.81 2.54 270)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ScottoKeebs:Placeholder_Diode"
 			(pin_numbers
 				(hide yes)
@@ -1259,10 +1537,28 @@
 		(uuid "2d6f06a2-08b5-4ec5-a020-9ae60fe19a1e")
 	)
 	(junction
+		(at 163.83 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32f72129-6696-48fe-9d86-899958d199b6")
+	)
+	(junction
+		(at 166.37 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3921517c-dbce-463d-a644-aab882042d75")
+	)
+	(junction
 		(at 109.22 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a413171-6ac1-4feb-9bed-b673ccfe3082")
+	)
+	(junction
+		(at 198.12 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d4793d6-fe8e-46b7-9154-cda157f7408c")
 	)
 	(junction
 		(at 99.06 111.76)
@@ -1329,6 +1625,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b75ca70-c53c-431d-a969-b4b5010c2dff")
+	)
+	(junction
+		(at 200.66 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "917c480c-fc21-4b51-8120-4904c76936bc")
 	)
 	(junction
 		(at 88.9 129.54)
@@ -1612,6 +1914,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 45.72) (xy 198.12 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3123f2b3-9997-4c27-95d2-75561668fe4f")
+	)
+	(wire
+		(pts
 			(xy 73.66 81.28) (xy 73.66 99.06)
 		)
 		(stroke
@@ -1662,6 +1974,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 48.26) (xy 200.66 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "458a081f-8c22-4953-a6fd-d2f9ce696fd0")
+	)
+	(wire
+		(pts
 			(xy 99.06 111.76) (xy 109.22 111.76)
 		)
 		(stroke
@@ -1679,6 +2001,16 @@
 			(type default)
 		)
 		(uuid "4903ed17-c56d-4647-b7ef-e1fed68f3fd8")
+	)
+	(wire
+		(pts
+			(xy 163.83 45.72) (xy 163.83 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b5244e0-0f89-4e2c-aeeb-77fedb309535")
 	)
 	(wire
 		(pts
@@ -1769,6 +2101,16 @@
 			(type default)
 		)
 		(uuid "60917a5c-0d35-4c1d-b7e3-01827d3a525a")
+	)
+	(wire
+		(pts
+			(xy 182.88 45.72) (xy 182.88 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62f9eacf-53a9-4386-bcba-794625e314a0")
 	)
 	(wire
 		(pts
@@ -1892,6 +2234,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 45.72) (xy 180.34 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84103c05-2161-4191-9675-4a6d243abd33")
+	)
+	(wire
+		(pts
 			(xy 53.34 99.06) (xy 53.34 116.84)
 		)
 		(stroke
@@ -1929,6 +2281,16 @@
 			(type default)
 		)
 		(uuid "8d1bebde-69fe-4802-8e88-43de4d6c4d55")
+	)
+	(wire
+		(pts
+			(xy 185.42 45.72) (xy 198.12 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91de8479-98af-440d-a846-f7c0ab5520c5")
 	)
 	(wire
 		(pts
@@ -2032,6 +2394,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 48.26) (xy 166.37 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd2d11c2-27c9-4add-944a-61b3d2496add")
+	)
+	(wire
+		(pts
 			(xy 68.58 58.42) (xy 78.74 58.42)
 		)
 		(stroke
@@ -2069,6 +2441,16 @@
 			(type default)
 		)
 		(uuid "c7b2b818-1048-47d4-8c86-e53923a7b96e")
+	)
+	(wire
+		(pts
+			(xy 200.66 48.26) (xy 200.66 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c917e2dd-ba9f-47f8-bd0e-744ccca11eff")
 	)
 	(wire
 		(pts
@@ -2132,6 +2514,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 48.26) (xy 166.37 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6b12b8-eedb-4be6-8b4f-69315708e470")
+	)
+	(wire
+		(pts
 			(xy 58.42 111.76) (xy 68.58 111.76)
 		)
 		(stroke
@@ -2149,6 +2541,16 @@
 			(type default)
 		)
 		(uuid "e8733464-123c-4717-a599-1363e34ea0da")
+	)
+	(wire
+		(pts
+			(xy 177.8 45.72) (xy 163.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb6b3e46-bf6a-4247-b088-16640667f051")
 	)
 	(wire
 		(pts
@@ -2784,7 +3186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 96.52 83.82 0)
 			(effects
 				(font
@@ -2852,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 76.2 101.6 0)
 			(effects
 				(font
@@ -3008,7 +3410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 96.52 48.26 0)
 			(effects
 				(font
@@ -3076,7 +3478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 96.52 66.04 0)
 			(effects
 				(font
@@ -3232,7 +3634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 86.36 83.82 0)
 			(effects
 				(font
@@ -3390,7 +3792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -3458,7 +3860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.75u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.75u"
 			(at 106.68 101.6 0)
 			(effects
 				(font
@@ -3614,7 +4016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
 			(at 86.36 119.38 0)
 			(effects
 				(font
@@ -3682,7 +4084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.00u"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -4014,7 +4416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 66.04 66.04 0)
 			(effects
 				(font
@@ -4170,7 +4572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 55.88 83.82 0)
 			(effects
 				(font
@@ -4238,7 +4640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 55.88 66.04 0)
 			(effects
 				(font
@@ -4394,7 +4796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 106.68 66.04 0)
 			(effects
 				(font
@@ -4462,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 106.68 83.82 0)
 			(effects
 				(font
@@ -4530,7 +4932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
 			(at 96.52 119.38 0)
 			(effects
 				(font
@@ -4598,7 +5000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
 			(at 106.68 119.38 0)
 			(effects
 				(font
@@ -4666,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 86.36 66.04 0)
 			(effects
 				(font
@@ -5000,7 +5402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 66.04 83.82 0)
 			(effects
 				(font
@@ -5068,7 +5470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 86.36 48.26 0)
 			(effects
 				(font
@@ -5204,7 +5606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 55.88 48.26 0)
 			(effects
 				(font
@@ -5417,6 +5819,158 @@
 			(project "mag60lp_v1right"
 				(path "/122d798a-1443-45cb-b073-824a82f08991"
 					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:OLED_128x64")
+		(at 181.61 43.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78ff9626-64b9-4f90-b497-7f5fac9c2e28")
+		(property "Reference" "J1"
+			(at 193.04 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OLED_128x64"
+			(at 193.04 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
+			(at 181.61 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d4423c5b-ecc0-4666-975d-c6cf8f6b79a9")
+		)
+		(pin "3"
+			(uuid "663254a2-e77c-4231-9881-d9e8159c14e7")
+		)
+		(pin "2"
+			(uuid "aa01c0a2-0c87-48d8-bf77-ad15343e7101")
+		)
+		(pin "1"
+			(uuid "59f3a907-0677-4d17-8280-d235c5533106")
+		)
+		(instances
+			(project ""
+				(path "/122d798a-1443-45cb-b073-824a82f08991"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:OLED_128x32")
+		(at 167.64 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a2c8143-8bf1-4b93-82de-926e465e1b3d")
+		(property "Reference" "J2"
+			(at 184.15 22.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "OLED_128x32"
+			(at 184.15 25.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+			(at 167.64 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5242129a-ee73-44af-99b5-0e15e70d5b5d")
+		)
+		(pin "2"
+			(uuid "bb21f20c-83c8-4243-ba52-08aaa0f855c7")
+		)
+		(pin "3"
+			(uuid "d938a563-0f1c-4067-8100-e26d91328076")
+		)
+		(pin "4"
+			(uuid "278ec508-be63-43ab-90f5-8a95535730e6")
+		)
+		(instances
+			(project ""
+				(path "/122d798a-1443-45cb-b073-824a82f08991"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -5670,7 +6224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
 			(at 66.04 119.38 0)
 			(effects
 				(font
@@ -5738,7 +6292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -5806,7 +6360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -5962,7 +6516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 86.36 101.6 0)
 			(effects
 				(font
@@ -6282,7 +6836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 66.04 48.26 0)
 			(effects
 				(font
@@ -6526,7 +7080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.25u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.25u"
 			(at 76.2 119.38 0)
 			(effects
 				(font
@@ -6770,7 +7324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 76.2 66.04 0)
 			(effects
 				(font
@@ -7102,7 +7656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 116.84 66.04 0)
 			(effects
 				(font
@@ -7258,7 +7812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 106.68 48.26 0)
 			(effects
 				(font
@@ -7590,7 +8144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_2.75u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_2.75u"
 			(at 55.88 119.38 0)
 			(effects
 				(font
@@ -7922,7 +8476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 55.88 101.6 0)
 			(effects
 				(font
@@ -8321,7 +8875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 66.04 101.6 0)
 			(effects
 				(font
@@ -8389,7 +8943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.50u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.50u"
 			(at 116.84 101.6 0)
 			(effects
 				(font
@@ -8457,7 +9011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Choc:Choc_V2_1.00u"
+		(property "Footprint" "ScottoKeebs_Choc:Choc_V1V2_1.00u"
 			(at 76.2 48.26 0)
 			(effects
 				(font
